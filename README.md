@@ -2,7 +2,7 @@
 
 ​	Overclocking firmware  for both Whatsminer M2X and M3X.
 
-## 1.Performence
+## 1.Performence/性能
 
 ​	**This firmware can increase about 10%-40% of the hashrates.**
 
@@ -10,7 +10,7 @@
 
 ​	***For air cooling machines,no more than 10%,its an issue about.**
 
-## 2.Download and install
+## 2.Download and install/下载和安装
 
 ​	①.Download  firmware： http://47.108.25.211:8000/sixbit_stable.bin
 
@@ -34,7 +34,12 @@
 
 ​		https://docs.google.com/spreadsheets/d/1DQI1PMPbVMbl4uhFypFdRphDNyRm00i3dFjycA_zJ1A/edit#gid=0
 
-## 3.Pumping water 
+## 3.Pumping water (fee)抽水
 
 ​	All rate is 2% of the oc part as dev fee for team construction.
 
+
+
+## 4.Contact (联系方式)
+
+​	e-mail: unamedalias@protonmail.com
