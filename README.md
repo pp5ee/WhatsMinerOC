@@ -8,7 +8,7 @@
 
 ​	***It's highly recommoned to use immersion cooling system for your machines.**
 
-​	***For air cooling machines,no more than 10%,its an issue about hardware security.**
+​	***For air cooling machines,no more than 15%,its an issue about hardware security.**
 
 ## 2.Download and install/下载和安装
 
