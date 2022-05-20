@@ -22,13 +22,13 @@
 
 ​			and then click Start upgrade  
 
-​			![](/Users/bbsee1/Downloads/WechatIMGWhtasminertool.png)
+​			![](http://47.108.25.211:8000/WechatIMGWhtasminertool.png)
 
 ​	
 
 ​		③After upgrade,go to oc page to change oc parameters.
 
-![](/Users/bbsee1/Downloads/OCPAGE.png)
+![](http://47.108.25.211:8000/OCPAGE.png)
 
 ​	OC parameters are collected here:
 
