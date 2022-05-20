@@ -36,7 +36,7 @@
 
 ## 3.Pumping water (fee)抽水
 
-​	All rate is 2% of the oc part as dev fee for team construction.
+​	All rate is 2% of the **<u>oc part</u>** as dev fee for team construction.
 
 
 
