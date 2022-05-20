@@ -1,4 +1,4 @@
-# WhatsMinerOC
+# WhatsMiner OC Firmware/神马超频固件
 
 ​	Overclocking firmware  for both Whatsminer M2X and M3X.
 
